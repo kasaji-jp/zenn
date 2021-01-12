@@ -3,7 +3,7 @@ title: "CDNとnpm installってどう違うの？~stripeを例に~"
 emoji: "🦓"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["javascript", "nodedotjs", "stripe", "rabee"]
-published: true
+published: false
 ---
 
 # 経緯
