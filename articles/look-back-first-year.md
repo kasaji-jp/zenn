@@ -2,7 +2,7 @@
 title: "業界未経験からのエンジニア最初の1年+αを振り返る"
 emoji: "🔰"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ['javascript', 'rabee']
+topics: ['javascript', 'frontend', 'rabee']
 published: true
 ---
 
