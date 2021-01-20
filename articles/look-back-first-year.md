@@ -185,7 +185,8 @@ published: true
 - chotto designのfigma編をざっとみて操作を学ぶ(1週間ぐらい)
 
 ### スキルレベル
-- 仕事でnode expressのコードを書き、stripeやcrypto.jsに触れ、クライアント/サーバーの違いがわかってくる
+- 仕事でnode expressのコードを書き、クライアント/サーバーの違いがわかってくる
+- ssrとかの仕組み、狙いなども説明できるようになった
 
 ### コメント
 - 今はReact/ionic/typescript/capacitorをつかって自分でアプリをつくっています。普段使っているriot.jsの開発とはまた違うので、苦しみながら勉強しています。
