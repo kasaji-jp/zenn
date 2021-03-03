@@ -3,7 +3,7 @@ title: "Firestore データ取得の制限について"
 emoji: "🔥"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["firebase", "javascript", "rabee"]
-published: false
+published: true
 ---
 
 # 概要
